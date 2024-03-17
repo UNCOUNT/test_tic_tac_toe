@@ -1,0 +1,8 @@
+# 程序结果
+*.exe
+
+# ignore all files in the build/ directory
+.vscode/
+/build/*
+
+#
